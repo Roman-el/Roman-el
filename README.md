@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... HTML, CSS, JAVASCRIPT, NODE.JS, NODE-RED, ESP..., MQTT, ARDINO, JAVA, PHP, 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... roman@rt-elektro.sk
+- 📫 How to reach me ... info@rt-elektro.sk
 
 <!---
 Roman-el/Roman-el is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
